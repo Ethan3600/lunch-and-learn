@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="SomethingDigital_HelloUiComponents::things" 
+            resource="SomethingDigital_HelloUiComponents::things_menu" title="My Things" action="things/index/index" module="SomethingDigital_HelloUiComponents" sortOrder="10"/></menu>
+</config>
